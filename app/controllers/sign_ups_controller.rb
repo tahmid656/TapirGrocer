@@ -32,6 +32,7 @@ class SignUpsController < ApplicationController
     respond_to do |format|
       if @sign_up.save
         # format.html { redirect_to @sign_up, notice: 'Sign up was successfully created.' }
+        
         format.html { redirect_to panel_path(1)}
       else
         format.html { render :new }
