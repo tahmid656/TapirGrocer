@@ -1,24 +1,10 @@
 # README
+* Ruby version: 2.3.3p222
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Instructions
+- Open commnand line
+- Go to the directory of Tapir Grocer
+- Type rails server
+- Check the listening on line and copy the localhost url
+- Paste it on the browser URL bar and run it!
+- Hope you like it :)
