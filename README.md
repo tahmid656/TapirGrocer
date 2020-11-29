@@ -8,7 +8,7 @@
   - Check the listening on line and copy the localhost url
   - Paste it on the browser URL bar and run it!
   - Hope you like it :)
-* Met Requirements
+* Requirements Met
   -	A) Visitors can check in when visiting Tapir Grocer.
   -	A) When they check in, the app will capture the visitor's full name, NRIC number, body temperature, date, and time.
   -	B) Location owners can sign up with the app and generate a link to display to their visitors.
